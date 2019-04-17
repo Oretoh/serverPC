@@ -1,0 +1,35 @@
+[
+    {"id": "light_c103",
+     "fields" : [
+       {
+         "id_field": "total_light_other_c103",
+         "op_field":"+",
+         "value_field":-1
+       },
+       {
+         "id_field": "other_c103",
+         "op_field":"-",
+         "value_field":-1
+       }
+     ]
+    },
+  {"id": "total_light_other_avac_audSL",
+     "fields" : [
+       {
+         "id_field": "light_audSL",
+         "op_field":"+",
+         "value_field":-1
+       },
+       {
+         "id_field": "other_audSL",
+         "op_field":"+",
+         "value_field":-1
+       },
+       {
+         "id_field": "avac_audSL",
+         "op_field":"+",
+         "value_field":-1
+       }
+     ]
+    }
+]
